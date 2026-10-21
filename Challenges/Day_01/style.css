@@ -1,9 +1,9 @@
 body{
-  background-color: #F398BE;
+  background-color: #bc98f3;
 }
 
 .box{
-  background-color: whitesmoke;
+  background-color: #bc98f3;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -25,7 +25,7 @@ body{
 }
 
 .text{
-  color: whitesmoke;
+  color: #bc98f3;
   border: none;
   background: none;
   float: left;
